@@ -31,4 +31,6 @@
 
 1. 安装组网（如 zerotier）或内网穿透（如向日葵）软件，畅快联机
 
-注：zerotier 安装教程详见 /zerotier/README.md
+注意事项：
+- 关闭codespace主机前请先关闭mc服务器
+- zerotier 安装教程详见 /zerotier/README.md

@@ -4,7 +4,7 @@
 
 1. 访问 https://my.zerotier.com/ ，点击 "LOG IN / SIGN UP"，进行登录/注册
 
-1. 点击 "Create A Network"，下方表格会多出一栏，点击一下
+1. 点击 "Create A Network"，下方表格会多出一栏，点进去
 
 1. 自行修改 "Name" 和 "Description"，改 "Access Control" 为 "Private"
 
@@ -22,6 +22,6 @@
 
 1. 执行 "zerotier-cli join [16位network ID]"（线上主机加入组网）
 
-1. 个人电脑加入组网（具体操作请自行百度）
+1. 访问 https://my.zerotier.com/ ，点进组网，找到 "Members" 一栏，在最左侧一栏打上勾（电脑加入组网一致）
 
-安装完成，畅快组网
+配置完成，畅快组网

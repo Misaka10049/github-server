@@ -1,4 +1,6 @@
-# github-server
+> 你的第一台服务器，何必是在线下？
+
+## 你的线上主机说明书 github-server
 
 本项目旨在通过github的codespace功能白嫖线上linux主机
 

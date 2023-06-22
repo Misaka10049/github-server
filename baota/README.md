@@ -1,4 +1,4 @@
-利用github的codespace主机搭建网站or服务器
+在codespace主机上安装宝塔面板
 
 步骤如下：
 
@@ -17,5 +17,3 @@
 1. 最后执行 "rm -f /www/server/panel/data/admin_path.pl"（删除面板安全入口）
 
 安装完成，访问宝塔面板
-
-可以多次白嫖
